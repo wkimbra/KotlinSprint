@@ -7,7 +7,7 @@ fun main(){
     println(offerCount)
     println(gratitudeText)
 
-    //val numOfEmployees:Int = 2000
+    /*val numOfEmployees:Int = 2000*/
     //println(numOfEmployees)
 
     val numOfEmployees:Int = 1999
